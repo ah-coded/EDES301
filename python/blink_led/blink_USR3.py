@@ -40,7 +40,7 @@ Blink LED should brlink the USR3 LED at 5 Hz.
 import Adafruit_BBIO.GPIO as GPIO
 import time
 
-GPIO.setup("USR3", GPIO.out)
+GPIO.setup("USR3", GPIO.OUT)
 #Setting up USR3 LED as the output.
 while True:
     GPIO.output("USR3", GPIO.HIGH)
