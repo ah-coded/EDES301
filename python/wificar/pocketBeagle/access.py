@@ -1,6 +1,6 @@
 #!/bin/bash
 # --------------------------------------------------------------------------
-# Wificar - Wifi Acces Script
+# Wificar - Wifi Access Script
 # --------------------------------------------------------------------------
 # License:   
 # Copyright 2026 Aiden Hwang
@@ -84,7 +84,7 @@ class SteeringServo:
 
 # --- Configuration & Initialization ---
 
-UDP_IP_ADDRESS = "172.20.10.6"
+UDP_IP_ADDRESS = #hotspot IP address
 UDP_PORT_NO = 3553
 
 # Instantiate our objects
