@@ -1,5 +1,5 @@
 # --------------------------------------------------------------------------
-# Wificar - Wifi Acces Script
+# Wificar - Sending UDP packets to Car
 # --------------------------------------------------------------------------
 # License:   
 # Copyright 2026 Aiden Hwang
